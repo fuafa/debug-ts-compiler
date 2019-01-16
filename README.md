@@ -1,7 +1,7 @@
-## Setup guide
+# Setup guide
 miu~~
 
-### Prepare
+## Prepare
 
 Always start from builting the local TypeScript compiler.
 
@@ -11,7 +11,7 @@ Always start from builting the local TypeScript compiler.
 
 3. Good to go.
 
-### The easy way
+## The easy way
 
 1. Open a whatever dir says `debug-ts-complier` with file type relates to some features you want to experiment with TypeScript.
 
@@ -37,7 +37,7 @@ Always start from builting the local TypeScript compiler.
 
 There are some shortcuts with this method, like no interaction with the compiler when typing or hovering etc.
 
-### The ~~hard~~ way
+## The ~~hard~~ way
 
 Actually this method is easy as well, but the official document confuses me a lot (of caurse my english's bad) and I searched google with `debug TypeScript compiler` gives me unrelavant results, it cost me almost a day to figure it out.
 
@@ -101,7 +101,7 @@ There are some weird things happen when I try to use the official method below. 
 
 NOTES: If it doesn't work, maybe you need to switch the order between starting a debugger and building the `Code OSS` instance, reason unkonwn...
 
-### References
+## References
 
 1. [Debugging Language Service in VS Code](https://github.com/Microsoft/TypeScript/wiki/Debugging-Language-Service-in-VS-Code)
 
