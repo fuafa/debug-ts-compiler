@@ -1,12 +1,7 @@
 # Setup guide
-<<<<<<< HEAD
-miu~~
-
-=======
 
 ~~It costs me a whole day to setting up a usable development environment, Fuajbck~~
 
->>>>>>> update
 ## Prepare
 
 Always start from builting the local TypeScript compiler.
@@ -107,15 +102,11 @@ There are some weird things happen when I try to use the official method below. 
 
 NOTES: If it doesn't work, maybe you need to switch the order between starting a debugger and building the `Code OSS` instance, reason unkonwn...
 
-<<<<<<< HEAD
-## References
-=======
 ### Useful tools
 
 1. [TypeScript AST Viewer](https://ts-ast-viewer.com/) -- Watch the ast structure with easy.
 
 ### References
->>>>>>> update
 
 1. [Debugging Language Service in VS Code](https://github.com/Microsoft/TypeScript/wiki/Debugging-Language-Service-in-VS-Code)
 
