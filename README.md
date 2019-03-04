@@ -8,7 +8,7 @@ Always start from builting the local TypeScript compiler.
 
 1. Clone/Fork & Clone the TypeScript code base to local machine.
 
-2. Run `jake local`.
+2. Run `gulp local`.
 
 3. Good to go.
 
