@@ -100,7 +100,11 @@ There are some weird things happen when I try to use the official method below. 
 
 6. Debug with `Attach To Code OSS` and happy coding.
 
-NOTES: If it doesn't work, maybe you need to switch the order between starting a debugger and building the `Code OSS` instance, reason unkonwn...
+## The debugger is activated but does not response to any action.
+
+1. 看看 5859 端口是否被别的程序监听（已知在别的项目中设置了 `typescript.tsdk = "/path/to/TypeScript/built/local"` 的同时打开该项目会导致这种情况）。
+2. 不知道，重启大法好，嘻嘻。
+
 
 ### Useful tools
 
