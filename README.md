@@ -118,5 +118,7 @@ There are some weird things happen when I try to use the official method below. 
 
 3. [Setup a development version of VS Code](https://github.com/Microsoft/vscode/wiki/How-to-Contribute)
 
-4. [Ohter ways to setup posted by TypeScript team member](https://blog.andrewbran.ch/debugging-the-type-script-codebase/)
+4. [Debugging the TypeScript Codebase](https://blog.andrewbran.ch/debugging-the-type-script-codebase/)
+
+5. [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 
